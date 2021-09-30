@@ -1,0 +1,2 @@
+# CORD-19-DATA-ANALYSIS
+The learning outcomes covered by this project are: • Provide a broad overview of the general field of ‘big data systems’  • Developing specialised knowledge in areas that demonstrate the interaction and synergy between ongoing research and practical deployment of this field of study. Key skills to be assessed This project aims at assessing your skills in:  • The usage of common big data tools and techniques  • Your ability to implement a standard data analysis process  – Loading the data  – Cleansing the data  – Analysis  – Visualization / Reporting
